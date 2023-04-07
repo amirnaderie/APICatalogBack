@@ -1,0 +1,6 @@
+{
+  "_comment": "For Remote DataBase and Connection String Saved in Hroku Setting of this project",
+  "jwtPrivateKey": "fileTransfer_jwtPrivateKey",
+  "db": "vidly_db",
+  "idToken":"1032600424978-mlij88vle420270inou5tv98eig3aop6.apps.googleusercontent.com"
+}
